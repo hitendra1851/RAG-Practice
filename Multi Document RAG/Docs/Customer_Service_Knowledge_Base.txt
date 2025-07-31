@@ -1,1 +1,14 @@
+Q: How can a customer cancel their order?
+A: Orders can be cancelled within 2 hours of placement. After 2 hours, the order may be in fulfillment. Check order status in system. If "Processing" - contact warehouse at ext. 1234. If "Shipped" - advise customer to refuse delivery.
 
+Q: What should I do when a customer reports a damaged product?
+A: Apologize for the inconvenience. Verify order number and product details. Create return label immediately. Offer replacement or refund. Escalate to manager if order value exceeds $500.
+
+Q: How long does refund processing take?
+A: Refunds process within 3-5 business days to original payment method. Credit card refunds may take additional 1-2 billing cycles to appear. Provide refund confirmation number for tracking.
+
+Q: Can customers get expedited shipping?
+A: Expedited shipping available for additional $25. Must be requested before 2 PM for next-day delivery. Weekend delivery not available. International orders require 2 business days minimum.
+
+Q: What if a customer doesn't recognize a charge?
+A: Verify customer identity with order email. Explain charges including shipping and tax. If customer still disputes, escalate to billing department. Document all communication in customer record.

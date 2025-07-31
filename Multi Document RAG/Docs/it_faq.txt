@@ -1,0 +1,11 @@
+Q: How do I reset my network password?
+A: Visit https://password.acme.com, enter your employee ID, and follow the email instructions. Password must be 12+ characters.
+
+Q: What software can I install on my work computer?
+A: Only pre-approved software from the company catalog. Submit installation requests through ServiceNow.
+
+Q: How do I connect to the VPN?
+A: Download Cisco AnyConnect from the IT portal. Use your network credentials. Contact IT helpdesk at extension 2468 for help.
+
+Q: What's the Wi-Fi password for guests?
+A: Guest network: "ACME-Guest" | Password: "Welcome2024!" | Valid for 24 hours per session.
